@@ -1,0 +1,9 @@
+.upper{
+    margin-top: 30px;
+    border: 2px solid black;
+    background-color: cornsilk;
+}
+.lower{
+    border: 2px solid black;
+    background-color: bisque;
+}
